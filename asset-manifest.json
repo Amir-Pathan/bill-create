@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Amir-Pathan.github.io/bill-create/static/css/main.ff84b5f1.chunk.css",
+    "main.js": "/Amir-Pathan.github.io/bill-create/static/js/main.e5600383.chunk.js",
+    "main.js.map": "/Amir-Pathan.github.io/bill-create/static/js/main.e5600383.chunk.js.map",
+    "runtime-main.js": "/Amir-Pathan.github.io/bill-create/static/js/runtime-main.cc48cfa2.js",
+    "runtime-main.js.map": "/Amir-Pathan.github.io/bill-create/static/js/runtime-main.cc48cfa2.js.map",
+    "static/js/2.eca1c95a.chunk.js": "/Amir-Pathan.github.io/bill-create/static/js/2.eca1c95a.chunk.js",
+    "static/js/2.eca1c95a.chunk.js.map": "/Amir-Pathan.github.io/bill-create/static/js/2.eca1c95a.chunk.js.map",
+    "static/js/3.5fa5e48f.chunk.js": "/Amir-Pathan.github.io/bill-create/static/js/3.5fa5e48f.chunk.js",
+    "static/js/3.5fa5e48f.chunk.js.map": "/Amir-Pathan.github.io/bill-create/static/js/3.5fa5e48f.chunk.js.map",
+    "index.html": "/Amir-Pathan.github.io/bill-create/index.html",
+    "static/css/main.ff84b5f1.chunk.css.map": "/Amir-Pathan.github.io/bill-create/static/css/main.ff84b5f1.chunk.css.map",
+    "static/js/2.eca1c95a.chunk.js.LICENSE.txt": "/Amir-Pathan.github.io/bill-create/static/js/2.eca1c95a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc48cfa2.js",
+    "static/js/2.eca1c95a.chunk.js",
+    "static/css/main.ff84b5f1.chunk.css",
+    "static/js/main.e5600383.chunk.js"
+  ]
+}
